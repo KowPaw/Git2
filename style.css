@@ -1,0 +1,17 @@
+body {
+	background: lightgrey;
+}
+
+.container {
+	padding-top: 60px;	
+}
+
+footer {
+	margin-bottom: 50px;
+}
+
+@media (max-width: 768px) {
+	body {
+		padding-top: 140px;	
+	}
+}
